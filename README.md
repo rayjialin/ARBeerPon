@@ -24,7 +24,7 @@ Beer Pong AR is played by two people in which each player takes turn throwing a 
 5. Build and run the app
 
 ## Tech Stack
-* ARCore
+* Google Cloud Anchor
 * ARKit
 * SceneKit
 * Firebase
